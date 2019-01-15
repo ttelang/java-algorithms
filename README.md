@@ -15,7 +15,7 @@ the data.
 
 `B` - Beginner, `A` - Advanced
 
-* `B` [Linked List](src/data-structures/linked-list)
+* `B` [Linked List](https://github.com/trekhleb/javascript-algorithms/tree/master/src/data-structures/linked-list)
 * `B` [Doubly Linked List](src/data-structures/doubly-linked-list)
 * `B` [Queue](src/data-structures/queue)
 * `B` [Stack](src/data-structures/stack)
