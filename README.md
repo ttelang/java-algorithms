@@ -320,6 +320,7 @@ Then just simply run the following command to test if your playground code works
 ```
 //TODO
 npm test -- 'playground'
+```
 
 ## Useful Information
 
