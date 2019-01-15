@@ -1,12 +1,10 @@
-# Java Algorithms
+# Java Algorithms and Data Structures
 Algorithms and data structures implemented in Java with explanations and links to further readings
 
 This repository contains Java based examples of many
 popular algorithms and data structures.
 
-Each algorithm and data structure has its own separate README
-with related explanations and links for further reading (including ones
-to YouTube videos).
+Each algorithm and data structure has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
 
 ## Data Structures
 
@@ -37,8 +35,7 @@ the data.
 
 ## Algorithms
 
-An algorithm is an unambiguous specification of how to solve a class of problems. It is
-a set of rules that precisely define a sequence of operations.
+An algorithm is an unambiguous specification of how to solve a class of problems. It is a set of rules that precisely define a sequence of operations.
 
 `B` - Beginner, `A` - Advanced
 
