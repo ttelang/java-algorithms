@@ -1,17 +1,13 @@
-# Java Algorithms and Data Structures
-Algorithms and data structures implemented in Java with explanations and links to further readings
+# Java Algorithms, Data Structures and Design Patterns
+Algorithms, data structures and Design Patterns implemented in Java with explanations and links to further readings
 
-This repository contains Java based examples of many
-popular algorithms and data structures.
+This repository contains Java based examples of many popular algorithms, data structures and design patterns.
 
-Each algorithm and data structure has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
+Each algorithm, data structure and data structures has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
 
 ## Data Structures
 
-A data structure is a particular way of organizing and storing data in a computer so that it can
-be accessed and modified efficiently. More precisely, a data structure is a collection of data
-values, the relationships among them, and the functions or operations that can be applied to
-the data.
+A data structure is a particular way of organizing and storing data in a computer so that it can be accessed and modified efficiently. More precisely, a data structure is a collection of data values, the relationships among them, and the functions or operations that can be applied to the data.
 
 `B` - Beginner, `A` - Advanced
 
