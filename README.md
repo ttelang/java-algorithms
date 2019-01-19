@@ -5,6 +5,10 @@ This repository contains Java based examples of many popular algorithms, data st
 
 Each algorithm, data structure and data structures has its own separate README with related explanations and links for further reading (including ones to YouTube videos).
 
+(Data Structures)[Data Structures.md]
+
+(Algorithms)[Algorithms.md]
+
 ## How to use this repository
 
 **Install all dependencies**
